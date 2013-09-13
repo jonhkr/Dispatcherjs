@@ -1,5 +1,5 @@
 # DispatcherJs
 
-# Usage
+## Usage
 
 see example
